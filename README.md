@@ -12,6 +12,8 @@
 - 📄 Know about my experiences [certificados-page](certificados-page)
 
 - ⚡ Fun fact **In Minecraft, pandas can catch a cold and sneeze, which sometimes makes nearby pandas jump in surprise!**
+![Dançando](https://i.pinimg.com/originals/a2/38/d2/a238d2916547ae1aa1738c7e134385e0.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
