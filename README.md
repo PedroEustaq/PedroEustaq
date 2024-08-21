@@ -13,7 +13,6 @@
 ⚡ Fun fact: **In Minecraft, pandas can sneeze, causing nearby pandas to jump in surprise.**
 <br>
 <br>
-<br>
     <img align="center" src="https://skillicons.dev/icons?i=js,html,css,php,androidstudio,java,git" />
     <hr>
 
