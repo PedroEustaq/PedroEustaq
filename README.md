@@ -2,7 +2,6 @@
 <h3 align="center">Um desenvolvedor frontend do Brasil. :)</h3>
 <br>
 <img  align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZsZWlnZXVudms3cjI5amszaGl6ZGNiOHlmMHl5c3NlMXlsaW1sOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.webp" style="width:300px">
-
 - 🌱 I’m currently learning **MYSQL & Database Management**
 
 - 👨‍💻 All of my projects are available at [mirrorlink](mirrorlink)
@@ -11,8 +10,8 @@
 
 - 📄 Know about my experiences [certificados-page](certificados-page)
 
-- ⚡ Fun fact: **Rabbits in Minecraft hop excitedly near carrot blocks,and even eat them!.**
-<br>
+- ⚡ Fun fact: **Rabbits in Minecraft hop excitedly near carrot blocks,and eat them!.**
+
 <img align="center" src="https://skillicons.dev/icons?i=js,html,css,php,androidstudio,java,git" />
 <hr>
 
