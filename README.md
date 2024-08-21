@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [certificados-page](certificados-page)
 
-- ⚡ Fun fact: **Rabbits in Minecraft hop excitedly near carrot blocks,and eat them!.**
+- ⚡ Fun fact: **Rabbits in Minecraft eagerly hop near and eat carrot blocks..**
 
 <img align="center" src="https://skillicons.dev/icons?i=js,html,css,php,androidstudio,java,git" />
 <hr>
