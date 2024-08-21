@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact: **Rabbits in Minecraft hop excitedly near carrot blocks,and even eat them!.**
 <br>
-<br>
     <img align="center" src="https://skillicons.dev/icons?i=js,html,css,php,androidstudio,java,git" />
     <hr>
 
