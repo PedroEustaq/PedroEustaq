@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MYSQL & Database Management**
 
-- 👨‍💻 All of my projects are available at [mirrorlink](mirrorlink)
+- 👨‍💻 All of my projects are available [here](https://www.estudonauta.com/aluno/pedro-eustaquio-martins-assad-magalhaes/)
 
 - 📫 How to reach me pedroeustaquioassad@gmail.com
 
