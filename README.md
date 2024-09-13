@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MYSQL & Database Management**
 
-- 👨‍💻 All of my projects are available [here](https://portfolio-two-opal-29.vercel.app/)
+- 👨‍💻 All of my projects are available [here](https://meu-port-mocha.vercel.app/)
 
 - 📫 How to reach me pedroeustaquioassad@gmail.com
 
