@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MYSQL & Database Management**
 
-- 👨‍💻 All of my projects are available [here](https://www.estudonauta.com/aluno/pedro-eustaquio-martins-assad-magalhaes/)
+- 👨‍💻 All of my projects are available [here](https://portfolio-two-opal-29.vercel.app/)
 
 - 📫 How to reach me pedroeustaquioassad@gmail.com
 
-- 📄 Know about my experiences [certificados-page](certificados-page)
+- 📄 Know about my experiences [Certificados-Page](https://www.estudonauta.com/aluno/pedro-eustaquio-martins-assad-magalhaes/)
 
 - ⚡ Fun fact: **Rabbits in Minecraft eagerly hop near and eat carrot blocks.**
 <br>
