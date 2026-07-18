@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available [here](https://pedroeustaquio.vercel.app/)
 
-- 📫 How to reach me pedroeustaqu@gmail.com
+- 📫 How to reach me pedroeustaquioassad@gmail.com
 
-- 📄 Know about my experiences [Certificados-Page](https://pedroeustaquio.vercel.app/Certificados.pdf)
+- 📄 Know about my experiences [Certificados-Page](https://pedroeustaquio.vercel.app/Certificados.html)
 
 - ⚡ Fun fact: **Rabbits in Minecraft eagerly hop near and eat carrot blocks.**
 <img align="left" src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,mysql,firebase,androidstudio,java,git" width="55%"/>
